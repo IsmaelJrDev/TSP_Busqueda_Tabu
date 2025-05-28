@@ -1,0 +1,14 @@
+apiTSPB
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+venv/
+env/
+apiTSPB
+
+# Archivos estáticos compilados (si usas algo tipo sass)
+static/*.css.map
